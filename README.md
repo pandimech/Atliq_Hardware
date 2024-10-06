@@ -18,7 +18,8 @@ In this project, the following analyses are conducted using SQL:
 ## 📊 Key SQL Queries and Insights
 
 1. **Markets for "Atliq Exclusive" in APAC**  
-   SQL query to identify the markets where "Atliq Exclusive" operates in the APAC region.<br>
+   SQL query to identify the markets where "Atliq Exclusive" operates in the APAC region.
+   <br>
    <br>
    <b>Query</b><br>
    ![Atliq_Exclusive_APAC_Region](screen_shot/Atliq_Exclusive_APAC_Region.png)<br><br>
@@ -26,12 +27,13 @@ In this project, the following analyses are conducted using SQL:
    ![Atliq_Exclusive_APAC_Region_out](screen_shot/Atliq_Exclusive_APAC_Region_out.png)
 
 2. **Unique Product Increase (2021 vs. 2020)**  
-   SQL query to compare the increase in the number of unique products between 2020 and 2021.<br>
+   SQL query to compare the increase in the number of unique products between 2020 and 2021.
+   <br>
     <br>
    <b>Query</b><br>
    ![Unique_product_increase_2021_vs_2020](screen_shot/Unique_product_increase_2021_vs_2020.png)<br><br>
    <b>Result</b><br>
-   ![Unique_product_increase_2021_vs_2020_out](Unique_product_increase_2021_vs_2020_out.png)
+   ![Unique_product_increase_2021_vs_2020_out](screen_shot/Unique_product_increase_2021_vs_2020_out.png)
 
 3. **Segment-Wise Unique Product Count**  
    SQL query to analyze the unique product counts across different segments.
@@ -62,16 +64,16 @@ In this project, the following analyses are conducted using SQL:
 
 6. **Top 5 Customers by Pre-Invoice Discount in 2021**  
    SQL query to determine the top 5 customers receiving the highest discounts in the Indian market in 2021.
-<br>
+   <br>
     <br>
    <b>Query</b><br>
-   ![]()<br><br>
+   ![Top_5_customer_average_pre_invoice_discount](screen_shot/Top_5_customer_average_pre_invoice_discount.png)<br><br>
    <b>Result</b><br>
-   ![]()
+   ![Top_5_customer_average_pre_invoice_discount_out](screen_shot/Top_5_customer_average_pre_invoice_discount_out.png)
 
 7. **Monthly Gross Sales Report for "Atliq Exclusive" (2021)**  
    SQL query to track the gross sales for "Atliq Exclusive" for each month of 2021.
-<br>
+   <br>
     <br>
    <b>Query</b><br>
    ![Gross_sales_monthly_Atliq](screen_shot/Gross_sales_monthly_Atliq.png)<br><br>
@@ -80,30 +82,30 @@ In this project, the following analyses are conducted using SQL:
 
 8. **Quarter with Maximum Total Sold Quantity (2020)**  
    SQL query to identify which quarter of 2020 had the maximum total sold quantity.
-<br>
+   <br>
     <br>
    <b>Query</b><br>
-   ![]()<br><br>
+   ![020_quarter_total_sold_quantity](screen_shot/2020_quarter_total_sold_quantity.png)<br><br>
    <b>Result</b><br>
-   ![]()
+   ![020_quarter_total_sold_quantity_out](screen_shot/2020_quarter_total_sold_quantity_out.png)
 
 9. **Top Sales Channel and Contribution (2021)**  
    SQL query to analyze the sales channel that contributed the most revenue in 2021.
-<br>
+   <br>
     <br>
    <b>Query</b><br>
-   ![]()<br><br>
+   ![channel_gross_sales_2021](screen_shot/channel_gross_sales_2021.png)<br><br>
    <b>Result</b><br>
-   ![]()
+   ![channel_gross_sales_2021_out](screen_shot/channel_gross_sales_2021_out.png)
 
 10. **Top 3 Products by Division and Sold Quantity (2021)**  
     SQL query to identify the top 3 products by division with the highest sold quantities in 2021.
     <br>
     <br>
    <b>Query</b><br>
-   ![]()<br><br>
+   ![Top_3_product_sold_quantity_Each_division](screen_shot/Top_3_product_sold_quantity_Each_division.png)<br><br>
    <b>Result</b><br>
-   ![]()
+   ![Top_3_product_sold_quantity_Each_division_out](screen_shot/Top_3_product_sold_quantity_Each_division_out.png)
 
 ## 🛠️ Technologies Used
 

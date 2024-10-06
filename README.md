@@ -138,6 +138,7 @@ In this project, the following analyses are conducted using SQL:
       - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/channel_gross_sales_2021_out.png)
    - [10. **Top 3 Products by Division and Sold Quantity (2021)**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Top_3_product_sold_quantity_Each_division.png)
       - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Top_3_product_sold_quantity_Each_division_out.png)
+- [AD_HOC_requests_pdf](https://github.com/pandimech/Atliq_Hardware/blob/main/ad-hoc-requests.pdf)
 - [1. **Markets for "Atliq Exclusive" in APAC**](https://github.com/pandimech/Atliq_Hardware/blob/main/Atliq_Exclusive_APAC_Region.sql)
 - [2.**Unique Product Increase (2021 vs. 2020)**](https://github.com/pandimech/Atliq_Hardware/blob/main/Unique_product_increase_2021_vs_2020.sql)
 - [3.**Segment-Wise Unique Product Count** ](https://github.com/pandimech/Atliq_Hardware/blob/main/segment_productcount.sql)

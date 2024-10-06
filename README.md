@@ -137,7 +137,17 @@ In this project, the following analyses are conducted using SQL:
    - [9. **Top Sales Channel and Contribution (2021)** ](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/channel_gross_sales_2021.png)
       - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/channel_gross_sales_2021_out.png)
    - [10. **Top 3 Products by Division and Sold Quantity (2021)**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Top_3_product_sold_quantity_Each_division.png)
-      - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Top_3_product_sold_quantity_Each_division_out.png)  
+      - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Top_3_product_sold_quantity_Each_division_out.png)
+- [1. **Markets for "Atliq Exclusive" in APAC**](https://github.com/pandimech/Atliq_Hardware/blob/main/Atliq_Exclusive_APAC_Region.sql)
+- [2.**Unique Product Increase (2021 vs. 2020)**](https://github.com/pandimech/Atliq_Hardware/blob/main/Unique_product_increase_2021_vs_2020.sql)
+- [3.**Segment-Wise Unique Product Count** ](https://github.com/pandimech/Atliq_Hardware/blob/main/segment_productcount.sql)
+- [4.**Segment-Wise Product Increase (2021 vs. 2020)**](https://github.com/pandimech/Atliq_Hardware/blob/main/Unique_product_increase_segment.sql)
+- [5. **Product Costing (Highest & Lowest)**  ](https://github.com/pandimech/Atliq_Hardware/blob/main/Highest_lowest_manufacturing_costs.sql)
+- [6. **Top 5 Customers by Pre-Invoice Discount in 2021**](https://github.com/pandimech/Atliq_Hardware/blob/main/Top_5_customer_average_pre_invoice_dis.sql)
+- [7. **Monthly Gross Sales Report for "Atliq Exclusive" (2021)**](https://github.com/pandimech/Atliq_Hardware/blob/main/Gross_sales_monthly_Atliq.sql)
+- [8.**Quarter with Maximum Total Sold Quantity (2020)** ](https://github.com/pandimech/Atliq_Hardware/blob/main/2020_quarter_total_sold_quantity.sql)
+- [9. **Top Sales Channel and Contribution (2021)** ](https://github.com/pandimech/Atliq_Hardware/blob/main/channel_gross_sales_2021.sql)
+- [10. **Top 3 Products by Division and Sold Quantity (2021)**](https://github.com/pandimech/Atliq_Hardware/blob/main/Get_Top_3_product_each_division.sql)
 
 
 

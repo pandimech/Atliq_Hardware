@@ -114,6 +114,32 @@ In this project, the following analyses are conducted using SQL:
 
 ## 📂 Repository Structure
 
+- [Data_set](https://github.com/pandimech/Atliq_Hardware/tree/main/Data_set)
+  - [metadata.txt](https://github.com/pandimech/Atliq_Hardware/blob/main/Data_set/Metadata.txt)
+  - [atliq_hardware_db.sql](https://github.com/pandimech/Atliq_Hardware/blob/main/Data_set/atliq_hardware_db.sql)
+- [screen_shot](https://github.com/pandimech/Atliq_Hardware/tree/main/screen_shot)
+   - [1. **Markets for "Atliq Exclusive" in APAC** ](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Atliq_Exclusive_APAC_Region.png)
+      - [ **Result** ](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Atliq_Exclusive_APAC_Region_out.png)
+   - [2.**Unique Product Increase (2021 vs. 2020)** ](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Unique_product_increase_2021_vs_2020.png)
+      - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Unique_product_increase_2021_vs_2020_out.png)
+   - [3.**Segment-Wise Unique Product Count** ](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/segment_product_count.png)
+      - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/segment_product_count_out.png)
+   - [4.**Segment-Wise Product Increase (2021 vs. 2020)**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Unique_product_increase_segment.png)
+      - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Unique_product_increase_segment_out.png)
+   - [5. **Product Costing (Highest & Lowest)**  ](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Highest_lowest_manufacturing_cost.png)
+      - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Highest_lowest_manufacturing_cost_out.png)
+   - [6. **Top 5 Customers by Pre-Invoice Discount in 2021**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Top_5_customer_average_pre_invoice_discount.png)
+      - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Top_5_customer_average_pre_invoice_discount_out.png)
+   - [7. **Monthly Gross Sales Report for "Atliq Exclusive" (2021)**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Gross_sales_monthly_Atliq.png)
+      - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Gross_sales_monthly_Atliq_out.png)
+   - [8.**Quarter with Maximum Total Sold Quantity (2020)** ](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/2020_quarter_total_sold_quantity.png)
+      - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/2020_quarter_total_sold_quantity_out.png)
+   - [9. **Top Sales Channel and Contribution (2021)** ](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/channel_gross_sales_2021.png)
+      - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/channel_gross_sales_2021_out.png)
+   - [10. **Top 3 Products by Division and Sold Quantity (2021)**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Top_3_product_sold_quantity_Each_division.png)
+      - [**Result**](https://github.com/pandimech/Atliq_Hardware/blob/main/screen_shot/Top_3_product_sold_quantity_Each_division_out.png)  
+
+
 
 ## 🔍 Key Insights
 
